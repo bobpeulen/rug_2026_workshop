@@ -56,6 +56,8 @@ In this lab, you will:
 15.	Click on **Open** to open the notebook
 16.	When you are prompted to log in, log in with your Oracle Cloud credentials
 17.	The page as shown in the screenshot below should appear
+
+   <img width="1640" height="660" alt="image" src="https://github.com/user-attachments/assets/808aefdc-cef1-4184-a610-c6a4339ca135" />
   ![lab_2_img_4_notebook](images/lab_2_img_4_notebook.jpg)
 
 ## Task 4: Clone Repository and run notebook

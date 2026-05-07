@@ -1,4 +1,4 @@
-# Workshop material for University of Groningen - April 26
+# Workshop material for University of Groningen
 
 ## **Steps to run the Workshop**
 

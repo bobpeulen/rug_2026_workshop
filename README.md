@@ -66,8 +66,8 @@ In this lab, you will:
 1. Click on the **Git** tab on the left
 2. Click on **Clone a Repository**
 3. Add https://github.com/bobpeulen/rug_2026_workshop.git
-4. Click **Clone**. A new, **rug\_2024\_workshop** repository should appear in the directory on the left
-5. Step inside the **rug\_2024\_workshop** folder
+4. Click **Clone**. A new, **rug\_2026\_workshop** repository should appear in the directory on the left
+5. Step inside the **rug\_2026\_workshop** folder
 6. Open the notebook: **gen\_ai\_langchain\_faiss.ipynb**
 7. When prompted for **Select Kernel**, just click on **Select**
 8. Follow the steps in the notebook closely.

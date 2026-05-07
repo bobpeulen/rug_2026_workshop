@@ -40,21 +40,22 @@ In this lab, you will:
 4. Select **Create Project**. You can name the Project to your own liking
 5. Click on **Create**. This will create a project.
 6. Step inside the project
+7. Click on **Notebook Sessions**
   ![lab_2_img_1_data_science](images/lab_2_img_1_data_science.jpg)
   ![lab_2_img_2_data_science_project](images/lab_2_img_2_data_science_project.jpg)
 
-7.	Click **Create Notebook**
-8.	You can use all default settings, only change the name to **myfirstnotebook**
-9.	Optional: change the shape of the notebook session by clicking on **Change Shape**
-10.	Use **Default Networking**
-11.	Leave Block storage size empty
-12.	Click on **Create**
-13.	This may take a few minutes, when the notebook is **Active**, click on the name of the notebook to access the main page
+8.	Click **Create Notebook session**
+9.	You can use all default settings, only change the name to **myfirstnotebook**
+10.	Optional: change the shape of the notebook session by clicking on **Change Shape**
+11.	Use **Default Networking**
+12.	Leave Block storage size empty
+13.	Click on **Create**
+14.	This may take a few minutes, when the notebook is **Active**, click on the name of the notebook to access the main page
   ![lab_2_img_3_notebook_session](images/lab_2_img_3_notebook_session.jpg)
 
-14.	Click on **Open** to open the notebook
-15.	When you are prompted to log in, log in with your Oracle Cloud credentials
-16.	The page as shown in the screenshot below should appear
+15.	Click on **Open** to open the notebook
+16.	When you are prompted to log in, log in with your Oracle Cloud credentials
+17.	The page as shown in the screenshot below should appear
   ![lab_2_img_4_notebook](images/lab_2_img_4_notebook.jpg)
 
 ## Task 4: Clone Repository and run notebook

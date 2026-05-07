@@ -58,6 +58,7 @@ In this lab, you will:
 17.	The page as shown in the screenshot below should appear
 
    <img width="1640" height="660" alt="image" src="https://github.com/user-attachments/assets/808aefdc-cef1-4184-a610-c6a4339ca135" />
+  
   ![lab_2_img_4_notebook](images/lab_2_img_4_notebook.jpg)
 
 ## Task 4: Clone Repository and run notebook
